@@ -1,5 +1,3 @@
-# ASAPP-CodeStyle
-
 ### XML-element names:
 
 TextView: tv_name
