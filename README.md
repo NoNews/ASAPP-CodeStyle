@@ -12,5 +12,5 @@
 
 
 ### RecyclerView LAYOUT
-    `item_name`
+    item_name
     
