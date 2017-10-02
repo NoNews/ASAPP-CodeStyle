@@ -8,3 +8,7 @@
   - CardView: `cv_name`
   - LinearLayout, FrameLayout, RelativeLayout, AbsoluteLayout, CoordinatorLayout: `lt_name` 
 
+### Inject and provide presenter
+
+   `@InjectPresenter lateinit var tabContactsSearchPresenter: TabContactsSearchPresenter`
+   `@ProvidePresenter fun provideTabContactsPresenter(): TabContactsPresenter = Injector.logicComponent!!.tabContactsPresenter`
