@@ -1,5 +1,8 @@
-### XML-element names:
+### View elements
 
-TextView: tv_name
-ImageView: iv_name
-Group-Layouts: lt_name
+
+  - TextView :  `tv_name`
+  - ImageView: `iv_name`
+  - CircleImageView: `civ_name`
+  - CardView: `cv_name`
+  - LinearLayout, FrameLayout, RelativeLayout, AbsoluteLayout, CoordinatorLayout: `lt_name` 
