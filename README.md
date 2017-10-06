@@ -19,3 +19,10 @@
   - CardView: `cv_name`
   - LinearLayout, FrameLayout, RelativeLayout, AbsoluteLayout, CoordinatorLayout: `lt_name` 
 
+
+
+
+## Class names
+
+  - RecyclerViewAdapter :  `NameListAdapter`
+  - DiffUtils: `NameDiffUtils`
