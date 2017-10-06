@@ -25,4 +25,5 @@
 ## Class names
 
   - RecyclerViewAdapter :  `NameListAdapter`
+  - ViewPagerAdapter :  `NameViewPagerAdapter`
   - DiffUtils: `NameDiffUtils`
